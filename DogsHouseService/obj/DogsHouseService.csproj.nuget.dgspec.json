@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogsHouseService\\DogsHouseService.csproj": {}
+    "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogHouseService\\DogsHouseService\\DogsHouseService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogsHouseService\\DogsHouseService.csproj": {
+    "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogHouseService\\DogsHouseService\\DogsHouseService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogsHouseService\\DogsHouseService.csproj",
+        "projectUniqueName": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogHouseService\\DogsHouseService\\DogsHouseService.csproj",
         "projectName": "DogsHouseService",
-        "projectPath": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogsHouseService\\DogsHouseService.csproj",
+        "projectPath": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogHouseService\\DogsHouseService\\DogsHouseService.csproj",
         "packagesPath": "C:\\Users\\lutse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogsHouseService\\obj\\",
+        "outputPath": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogHouseService\\DogsHouseService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lutse\\AppData\\Roaming\\NuGet\\NuGet.Config",

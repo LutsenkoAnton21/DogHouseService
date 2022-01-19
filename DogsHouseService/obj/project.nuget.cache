@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ux4VIqH+SbrMalHF/kI8JddcAfQH+o2giHCYNh1QGGp9znqx1KUMGMMEkbNp/sbfhAKVIpK/nb69x2p/8yWOqA==",
+  "dgSpecHash": "6yeHWpjNGe/j3ioGoCRg2hUfsTa/V/joMPvifL1MdjEJZD7T2Z7zKA8bpabwZXO/8Nj6jTRnp28QD8yFh2MJPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogsHouseService\\DogsHouseService.csproj",
+  "projectFilePath": "C:\\Users\\lutse\\Desktop\\DogsHouseService\\DogHouseService\\DogsHouseService\\DogsHouseService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lutse\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\lutse\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
